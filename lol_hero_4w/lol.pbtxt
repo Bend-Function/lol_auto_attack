@@ -1,0 +1,8 @@
+item {  
+      id: 1  
+      name: 'R_blood'  
+}  
+item {  
+      id: 2  
+      name: 'B_blood'  
+}  
